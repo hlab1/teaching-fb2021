@@ -38,5 +38,11 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
+# slurm outputs
+slurm-*.out
+
+# exercise solutions
+exercise_solutions.ipynb
+
 # result files
-week01/wuhan1.fasta
+week01/*.fasta
