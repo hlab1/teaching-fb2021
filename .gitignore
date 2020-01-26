@@ -46,3 +46,5 @@ exercise_solutions.ipynb
 
 # result files
 week01/*.fasta
+week07/*.fasta
+week07/*.phy
