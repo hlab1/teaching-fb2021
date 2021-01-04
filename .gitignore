@@ -41,9 +41,6 @@ vignettes/*.pdf
 # slurm outputs
 slurm-*.out
 
-# exercise solutions
-exercise_solutions.ipynb
-
 # result files
 week01/*.fasta
 week07/*.fasta
